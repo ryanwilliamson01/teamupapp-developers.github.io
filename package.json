@@ -1,6 +1,7 @@
 {
-  "name": "teamup",
+  "name": "TeamUp",
   "version": "0.1.0",
+  "homepage": "https://teamupapp.me",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
